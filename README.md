@@ -1,4 +1,4 @@
-<h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+<h1 align="center">Hi, guys! <img src="https://github.com/AlecBrooks/AlecBrooks/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
@@ -17,13 +17,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/wervlad">
+  <a href="https://github.com/AlecBrooks">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlecBrooks&theme=transparent" />
   </a>
-  <a href="https://github.com/wervlad">
+  <a href="https://github.com/AlecBrooks">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlecBrooks&hide_border=true&card_width=338&theme=transparent" />
   </a>
-  <a href="https://github.com/wervlad">
+  <a href="https://github.com/AlecBrooks">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlecBrooks&theme=transparent" />
   </a>
 </p>
