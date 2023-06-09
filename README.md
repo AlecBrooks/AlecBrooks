@@ -13,7 +13,6 @@
     <a href="https://www.kaggle.com/alecbrooks">
         <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="Kaggle">
     </a>
-    
 </p>
 
 <p align="center">
