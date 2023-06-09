@@ -26,9 +26,4 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlecBrooks&theme=transparent" />
   </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/alecbrooks">
-  </a>
-</p>
 <!--
