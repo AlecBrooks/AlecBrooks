@@ -14,7 +14,7 @@
         <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="Kaggle">
     </a>
      <a href="http://www.brooksdev.org">
-        <img src="https://img.shields.io/badge/-Brooksdev.org-blue" alt="Brooksdev">
+        <img src="https://img.shields.io/badge/-My%20Website-blue" alt="Brooksdev">
     </a>
 </p>
 
