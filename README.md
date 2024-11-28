@@ -4,7 +4,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         "Hi, I'm Alec. <br>
-        I have a deep passion for computer science and programming, particularly in the realm of data analysis. Currently, I'm pursuing my education in data science with a focus on analysis. I find great joy in exploring the nuances of programming languages, and I'm actively expanding my knowledge in VBA, SQL, R, and Python. These languages provide me with the tools to dive into the world of data and unearth valuable insights.<br><br>
+        I have a deep passion for computer science and programming, particularly in the realm of data analysis. Currently, I'm pursuing my education in data science with a focus on analysis. I find great joy in exploring the nuances of programming languages, and I'm actively expanding my knowledge in VBA, SQL, and R. These languages provide me with the tools to dive into the world of data and unearth valuable insights.<br><br>
         If you're as enthusiastic about data and programming as I am, I would love to collaborate on interesting projects. Feel free to reach out and discuss potential collaborations.
 </i><br><br>
     <a href="https://www.linkedin.com/in/alec-brooks-1b92a1267">
