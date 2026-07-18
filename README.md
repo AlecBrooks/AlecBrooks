@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋</h1>
 
 <p align="center">
-    <b>Welcome</b><br><br>
-    <i>
 </i><br><br>
     <a href="https://www.linkedin.com/in/alec-brooks-1b92a1267">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
