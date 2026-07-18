@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋</h1>
-
 <p align="center">
   <a href="https://github.com/AlecBrooks">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlecBrooks&theme=transparent" />
